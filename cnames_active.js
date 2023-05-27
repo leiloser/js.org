@@ -1603,6 +1603,7 @@ var cnames_active = {
   "leste": "atwood-cai.github.io/leste.js", // noCF? (don´t add this in a new PR)
   "lete": "cname.vercel-dns.com", // noCF
   "lev": "lev-savranskiy.github.io",
+  "leiloser": "leiloser.github.io",
   "level": "xv700.github.io/level",
   "lf": "lf112.github.io",
   "lgs": "lgsturkiye.github.io/lgs",
@@ -1649,6 +1650,7 @@ var cnames_active = {
   "lmadactyl": "hosting.gitbook.io", // noCF
   "lmajercik": "meiercheek.github.io",
   "localize": "localize.github.io",
+
   "localsync": "noderaider.github.io/localsync", // noCF? (don´t add this in a new PR)
   "loginlock-portfolio": "chucky22mendoza.github.io/loginlock",
   "logo": "js-org.github.io/logo",
