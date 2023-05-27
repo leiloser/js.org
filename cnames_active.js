@@ -1650,7 +1650,6 @@ var cnames_active = {
   "lmadactyl": "hosting.gitbook.io", // noCF
   "lmajercik": "meiercheek.github.io",
   "localize": "localize.github.io",
-
   "localsync": "noderaider.github.io/localsync", // noCF? (don´t add this in a new PR)
   "loginlock-portfolio": "chucky22mendoza.github.io/loginlock",
   "logo": "js-org.github.io/logo",
